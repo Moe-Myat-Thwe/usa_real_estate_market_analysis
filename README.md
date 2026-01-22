@@ -4,6 +4,9 @@
 This project demonstrates a complete data analytics workflow, from raw data exploration to business-ready insights.
 The goal is to analyze a real-world dataset, clean and transform the data using Python, and communicate insights through an interactive Power BI dashboard, a written report, and a presentation created with Gamma.
 
+<img width="1078" height="670" alt="image" src="https://github.com/user-attachments/assets/8a8a131f-286b-4dfa-80e7-21cdb2ea0c5b" />
+
+
 The project focuses on:
 
 - Understanding data structure and quality
