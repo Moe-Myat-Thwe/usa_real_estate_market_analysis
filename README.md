@@ -2,7 +2,7 @@
 ## 📌 Overview
 
 This project demonstrates a complete data analytics workflow, from raw data exploration to business-ready insights.
-The goal is to analyze a real-world dataset, clean and transform the data using Python, and communicate insights through an interactive Power BI dashboard, a written report, and a presentation created with Gamma.
+The goal is to analyze a real-world dataset, clean and transform the data using Python, and communicate insights through an interactive Power BI dashboard, a written report, and a presentation created with Pi.
 
 <img width="1078" height="670" alt="image" src="https://github.com/user-attachments/assets/8a8a131f-286b-4dfa-80e7-21cdb2ea0c5b" />
 
@@ -38,7 +38,7 @@ The project focuses on:
 
 - Power BI – Data modeling, DAX measures, interactive dashboard
 
-- Gamma – Presentation deck for executive-level storytelling
+- Pi – Presentation deck 
 
 - GitHub – Version control and project documentation
 
