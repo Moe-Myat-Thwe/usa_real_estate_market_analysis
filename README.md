@@ -1,10 +1,10 @@
-# 📊 Data Analytics Project – End-to-End Market Analysis
+# 📊 U.S.A Real Estate Market Analysis
 ## 📌 Overview
 
 This project demonstrates a complete data analytics workflow, from raw data exploration to business-ready insights.
 The goal is to analyze a real-world dataset, clean and transform the data using Python, and communicate insights through an interactive Power BI dashboard, a written report, and a presentation created with Pi.
 
-<img width="1078" height="670" alt="image" src="https://github.com/user-attachments/assets/8a8a131f-286b-4dfa-80e7-21cdb2ea0c5b" />
+<img width="1117" height="691" alt="image" src="https://github.com/user-attachments/assets/5857742e-714d-4fd8-ad87-794d8d08df11" />
 
 
 The project focuses on:
