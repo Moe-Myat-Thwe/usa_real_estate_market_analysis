@@ -1,5 +1,6 @@
 # 📊 U.S.A Real Estate Market Analysis
 ## 📌 Overview
+This project analyzes housing market trends across regions in the U.S.A including price trends and regional comparison, market demand indicators, data-driven insights for buyers/investors.
 
 This project demonstrates a complete data analytics workflow, from raw data exploration to business-ready insights.
 The goal is to analyze a real-world dataset, clean and transform the data using Python, and communicate insights through an interactive Power BI dashboard, a written report, and a presentation created with Pi.
